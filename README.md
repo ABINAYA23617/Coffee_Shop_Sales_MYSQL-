@@ -1,2 +1,2 @@
-# Coffee_Shop_Sales_MYSQL-
-This project focuses on analyzing a real-world coffee shop sales dataset using SQL to extract meaningful business insights. The dataset was initially provided in a single Excel file and was processed, cleaned, and analyzed using MySQL.
+<img width="911" height="521" alt="ER_DIAG" src="https://github.com/user-attachments/assets/402f45b6-171a-459c-86d0-2f987376bff3" />
+
